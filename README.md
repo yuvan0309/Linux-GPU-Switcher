@@ -73,4 +73,4 @@ Or bind it to a hotkey for quick switching.
 
 ## 🦘 Author
 
-Made by  just another Arch user making life easier.
+Made by  just another Arch user making life easier. 
