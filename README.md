@@ -26,7 +26,7 @@ Designed with Arch Linux in mind â€” because real power users roll with Arch ğŸ
 
 ##  Demo
 
-![GPU Switcher UI](demo.png)
+![GPU Switcher UI](screenshots/demo.png)
 
 ---
 
