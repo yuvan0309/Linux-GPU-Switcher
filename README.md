@@ -4,8 +4,13 @@ A simple graphical GPU switcher script built for **Linux hybrid GPU laptops**, p
 
 Designed with Arch Linux in mind — because real power users roll with Arch 🐧. 
 
+## But Why ?
+
+* beacuse as a Linux user , it sucks to change GPU mode especially having two gpu's
+* My laptop gave up on nvidia GPU , sometimes it crashes randomly 
+
 ---
-## ✨ Features
+##  Features
 
 * Switch between:
 
@@ -19,13 +24,13 @@ Designed with Arch Linux in mind — because real power users roll with Arch �
 
 ---
 
-## 💽 Demo
+##  Demo
 
 ![GPU Switcher UI](demo.png)
 
 ---
 
-## ⚙️ Installation
+##  Installation
 
 1. **Dependencies**:
 
